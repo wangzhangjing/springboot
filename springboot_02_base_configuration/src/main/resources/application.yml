@@ -1,0 +1,27 @@
+server:
+  port: 81
+
+country: chain
+
+user:
+  name: wzj
+  age: 20
+
+user1:
+  name: wzj
+  age: 20
+
+user2: [{ name: zhangsan,age: 30},{ name: lisi,age: 40}]
+
+baseDir: c:\windows
+#使用${属性名}引用数据
+tempDir: ${baseDir}\temp
+
+#创建类，用于封装下面的数据
+#由spring帮我们去加载数据到对象中，一定要告诉spring加载这组数据信息、
+#使用时候从spring中直接获取信息
+datasource:
+  driver: com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost/springboot_db
+  username: root
+  password: 123

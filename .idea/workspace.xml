@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed13e93b-9060-4e45-8961-8dc04f5f0f06" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java/com/wzj/controller/BookController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/springboot_01_01_quickstart/src/main/java/com/wzj/ccoomm/wzj.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/springboot_01_01_quickstart/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/springboot_01_01_quickstart/src/main/java/com/wzj/Springboot0101QuickstartApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/springboot_01_01_quickstart/src/main/java/com/wzj/User.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/springboot_02_base_configuration/src/main/resources/bak/application.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java/com/wzj/Springboot0102QuickstartApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/springboot_02_base_configuration/src/main/java/com/wzj/controller/BookController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.7.1/spring-boot-dependencies-2.7.1.pom" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/springboot_02_base_configuration/src/main/java/com/wzj/Application.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/springboot_02_base_configuration/src/main/resources/application.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/springboot_02_base_configuration/src/main/resources/bak/application.yaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/springboot_02_base_configuration/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.7.1/spring-boot-starter-parent-2.7.1.pom" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2BTPbJl1ReXQKj0GlK7ycMszckh" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.9 (springboot)" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/springboot_01_01_quickstart/src/main/java/com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springbook_11_log/src/main/java/com/wzj/controller" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.17480469" />
+    <property name="project.structure.side.proportion" value="0.5931198" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.wzj" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\springboot\springbook_11_log\src\main\java\com\wzj\controller" />
+      <recent name="D:\workspace\springboot\springboot_10_profiles\src\main\resources" />
+      <recent name="D:\workspace\springboot\springboot_10_profiles\src\main\resources\simple" />
+      <recent name="D:\workspace\springboot\springboot_09_config\src\main\resources" />
+      <recent name="D:\workspace\springboot\springboot_08_ssmp\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\springboot\springbook_11_log" />
+      <recent name="D:\workspace\springboot\springbook_11_log\src\main\java\com\wzj\controller" />
+      <recent name="D:\workspace\springboot\springboot_10_profiles\src\main\resources\props" />
+      <recent name="D:\workspace\springboot\springboot_10_profiles\src\main\resources\simple" />
+      <recent name="D:\workspace\springboot\springboot_02_base_configuration\src\main\resources\bak" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.wzj" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wzj.ccoomm" />
+      <recent name="com.wzj.controller" />
+      <recent name="com.wzj.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Springbook11LogApplication">
+    <configuration name="BookServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_08_ssmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzj.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wzj.service" />
+      <option name="MAIN_CLASS_NAME" value="com.wzj.service.BookServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceTestCase.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_08_ssmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzj.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wzj.service" />
+      <option name="MAIN_CLASS_NAME" value="com.wzj.service.BookServiceTestCase" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceTestCase.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_08_ssmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzj.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wzj.service" />
+      <option name="MAIN_CLASS_NAME" value="com.wzj.service.BookServiceTestCase" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceTestCase.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_08_ssmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzj.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wzj.service" />
+      <option name="MAIN_CLASS_NAME" value="com.wzj.service.BookServiceTestCase" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceTest.testById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_08_ssmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzj.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wzj.service" />
+      <option name="MAIN_CLASS_NAME" value="com.wzj.service.BookServiceTest" />
+      <option name="METHOD_NAME" value="testById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_02_base_configuration" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wzj.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Springbook11LogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbook_11_log" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wzj.Springbook11LogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Springboot0101QuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_01_01_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wzj.Springboot0101QuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Springboot0102QuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_01_02_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wzj.Springboot0102QuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Springboot0103QuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_01_03_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wzj.Springboot0103QuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Springboot04JunitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_04_junit" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wzj.Springboot04JunitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Springboot05MybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_05_mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wzj.Springboot05MybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Springboot06MybatisPlusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_06_mybatis_plus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wzj.Springboot06MybatisPlusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Springboot07DruidApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_07_druid" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wzj.Springboot07DruidApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Springboot08SsmpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_08_ssmp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wzj.SSMPApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Springboot09ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_09_config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wzj.Springboot09ConfigApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.config.location=classpath:/ebank-w.yml,classpath:/ebank.yml" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Springboot10ProfilesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_10_profiles" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wzj.Springboot10ProfilesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BookServiceTestCase.test2" />
+      <item itemvalue="JUnit.BookServiceTestCase.update" />
+      <item itemvalue="JUnit.BookServiceTestCase.test5" />
+      <item itemvalue="JUnit.BookServiceTest.testById" />
+      <item itemvalue="JUnit.BookServiceTest" />
+      <item itemvalue="Spring Boot.Springboot0101QuickstartApplication" />
+      <item itemvalue="Spring Boot.Application (1)" />
+      <item itemvalue="Spring Boot.Springboot0103QuickstartApplication" />
+      <item itemvalue="Spring Boot.Springboot04JunitApplication" />
+      <item itemvalue="Spring Boot.Springboot05MybatisApplication" />
+      <item itemvalue="Spring Boot.Springboot06MybatisPlusApplication" />
+      <item itemvalue="Spring Boot.Springboot07DruidApplication" />
+      <item itemvalue="Spring Boot.Springboot0102QuickstartApplication" />
+      <item itemvalue="Spring Boot.Springboot08SsmpApplication" />
+      <item itemvalue="Spring Boot.Springboot09ConfigApplication" />
+      <item itemvalue="Spring Boot.Springboot10ProfilesApplication" />
+      <item itemvalue="Spring Boot.Springbook11LogApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookServiceTest" />
+        <item itemvalue="JUnit.BookServiceTest.testById" />
+        <item itemvalue="JUnit.BookServiceTestCase.test5" />
+        <item itemvalue="JUnit.BookServiceTestCase.update" />
+        <item itemvalue="JUnit.BookServiceTestCase.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed13e93b-9060-4e45-8961-8dc04f5f0f06" name="Default Changelist" comment="" />
+      <created>1656927171598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656927171598</updated>
+      <workItem from="1656927174286" duration="5155000" />
+      <workItem from="1656935478360" duration="1109000" />
+      <workItem from="1656937855836" duration="261000" />
+      <workItem from="1657010612576" duration="7067000" />
+      <workItem from="1657022845107" duration="2378000" />
+      <workItem from="1657076436971" duration="38000" />
+      <workItem from="1657076513289" duration="2514000" />
+      <workItem from="1657079316120" duration="145000" />
+      <workItem from="1657091846212" duration="774000" />
+      <workItem from="1657092778695" duration="10538000" />
+      <workItem from="1657181990472" duration="2622000" />
+      <workItem from="1657240289532" duration="8096000" />
+      <workItem from="1657540462034" duration="4707000" />
+      <workItem from="1657586108374" duration="3068000" />
+      <workItem from="1657589284198" duration="849000" />
+      <workItem from="1657590161852" duration="1222000" />
+      <workItem from="1657591433550" duration="201000" />
+      <workItem from="1657591660248" duration="2679000" />
+      <workItem from="1657607022959" duration="5201000" />
+      <workItem from="1657616292522" duration="50000" />
+      <workItem from="1657676650463" duration="3178000" />
+      <workItem from="1657692054791" duration="6215000" />
+      <workItem from="1657698457300" duration="11274000" />
+      <workItem from="1657761331019" duration="2445000" />
+      <workItem from="1657785176117" duration="10000" />
+      <workItem from="1657934430095" duration="3513000" />
+      <workItem from="1657941834111" duration="12562000" />
+      <workItem from="1658018692420" duration="1607000" />
+      <workItem from="1658235765314" duration="34000" />
+      <workItem from="1658491731504" duration="50000" />
+      <workItem from="1658539190101" duration="133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

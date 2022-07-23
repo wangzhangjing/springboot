@@ -1,0 +1,12 @@
+#应用配置,公共配置
+#spring:
+#  profiles:
+#    active: dev
+#    include: devMVC,devDB
+spring:
+  profiles:
+    active: @profile.active@
+    group:
+    "dev": devMVC,devDB
+    "pro": proMVC,proDB
+

@@ -1,0 +1,16 @@
+
+#配置数据库连接信息
+spring:
+  datasource:
+    driver-class-nme: com.mysql.cj.jdbc.Driver
+    # 数据库连接地址
+    url: jdbc:mysql://localhost:3306/db1?serverTimezone=GMT
+    # 数据库用户名&密码：
+    username: root
+    password: 123
+
+#    设置mp表前缀
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: tbl_

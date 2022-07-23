@@ -1,0 +1,29 @@
+2022-07-16 17:13:37.111  INFO 10632 --- [main] com.wzj.Springbook11LogApplication       : Starting Springbook11LogApplication using Java 1.8.0_121 on LAPTOP-1ERIRAFV with PID 10632 (D:\workspace\springboot\springbook_11_log\target\classes started by 86176 in D:\workspace\springboot)
+2022-07-16 17:13:37.116  INFO 10632 --- [main] com.wzj.Springbook11LogApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-07-16 17:13:37.846  INFO 10632 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-07-16 17:13:37.854  INFO 10632 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-07-16 17:13:37.855  INFO 10632 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-16 17:13:37.974  INFO 10632 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-07-16 17:13:37.974  INFO 10632 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 809 ms
+2022-07-16 17:13:38.222  INFO 10632 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-16 17:13:38.230  INFO 10632 --- [main] com.wzj.Springbook11LogApplication       : Started Springbook11LogApplication in 1.524 seconds (JVM running for 2.49)
+2022-07-16 17:14:26.952  INFO 10632 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-16 17:14:26.952  INFO 10632 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-07-16 17:14:26.953  INFO 10632 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-07-16 17:14:26.969  WARN 10632 --- [http-nio-8080-exec-1] com.wzj.controller.BookController        : warn..
+2022-07-16 17:14:26.969 ERROR 10632 --- [http-nio-8080-exec-1] com.wzj.controller.BookController        : error..
+2022-07-16 17:14:27.442  WARN 10632 --- [http-nio-8080-exec-3] com.wzj.controller.BookController        : warn..
+2022-07-16 17:14:27.442 ERROR 10632 --- [http-nio-8080-exec-3] com.wzj.controller.BookController        : error..
+2022-07-16 17:14:27.990  WARN 10632 --- [http-nio-8080-exec-4] com.wzj.controller.BookController        : warn..
+2022-07-16 17:14:27.990 ERROR 10632 --- [http-nio-8080-exec-4] com.wzj.controller.BookController        : error..
+2022-07-16 17:20:05.887  INFO 16908 --- [main] com.wzj.Springbook11LogApplication       : Starting Springbook11LogApplication using Java 1.8.0_121 on LAPTOP-1ERIRAFV with PID 16908 (D:\workspace\springboot\springbook_11_log\target\classes started by 86176 in D:\workspace\springboot)
+2022-07-16 17:20:05.891  INFO 16908 --- [main] com.wzj.Springbook11LogApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-07-16 17:20:06.656  INFO 16908 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-07-16 17:20:06.663  INFO 16908 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-07-16 17:20:06.663  INFO 16908 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-16 17:20:06.778  INFO 16908 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-07-16 17:20:06.779  INFO 16908 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 831 ms
+2022-07-16 17:20:07.008  INFO 16908 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-16 17:20:07.016  INFO 16908 --- [main] com.wzj.Springbook11LogApplication       : Started Springbook11LogApplication in 1.666 seconds (JVM running for 2.68)
+2022-07-16 17:20:47.320  INFO 16908 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-16 17:20:47.320  INFO 16908 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'

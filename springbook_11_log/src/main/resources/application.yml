@@ -1,0 +1,35 @@
+#debug: true
+logging:
+#  设置分组
+ group:
+  ebank: com.wzj.controller,com.wzj.service,com.wzj.dao
+  iservice: com.alibaba
+ level:
+  root: info
+#    设置某个包的日志级别
+#    com.wzj.controller: debug
+#    2设置分组，对某个组设置日志级别
+  ebank: warn
+ #日志的设置模板格式
+ pattern:
+  console: "%d %clr(%5p) ---[%12t] %clr(%-40.40c){cyan} : %m %n"
+
+#  console: "%d %clr(%5p) ---[%12t] %-40.40c : %m %n"
+#  console: "%d %clr(%5p) ---[%12t] %-40c : %m %n"
+#  console: "%d %clr(%5p) ---[%12t] %40c : %m %n"
+#  console: "%d %clr(%5p) ---[%12t] %c %n"
+#  console: "%d %clr(%5p) ---[%12t] %n"
+#  console: "%d %clr(%5p) %n"
+#  console: "%d %5p  %n"
+#  console: "%d - %m %n"
+#  2022-07-16 16:54:02.725  INFO 14600 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+#设置日志存储位置
+ file:
+  name: server.log
+  #日志大小
+ logback:
+  rollingpolicy:
+   max-file-size: 4KB
+   file-name-pattern: server.%d{yyyy-MM-dd}.%i.log
+   #server.2021-01-02.0.log
+   #%i 自增序列
